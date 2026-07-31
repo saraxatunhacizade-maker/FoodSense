@@ -41,7 +41,7 @@ As the Business Analyst, I was responsible for:
 
 ## Project Presentation
 
-📄 [View Project Presentation (PDF)](FoodSense_Presentation.pdf)
+📄 [Project Presentation (PDF)](FoodSense_Azerbaycanca.pdf)
 
 ---
 
