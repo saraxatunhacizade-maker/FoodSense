@@ -39,9 +39,9 @@ As the Business Analyst, I was responsible for:
 
 ---
 
-## Repository Contents
+## Project Presentation
 
-📄 [Project Presentation](FoodSense_Azerbaycanca.pptx)
+📄 [View Project Presentation (PDF)](FoodSense_Presentation.pdf)
 
 ---
 
