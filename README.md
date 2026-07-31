@@ -42,17 +42,6 @@ As the Business Analyst, I was responsible for:
 ## Project Presentation
 
 📄 [View Project Presentation (PDF)](FoodSense_Presentation.pdf)
-# Clone or navigate to your repo
-cd FoodSense
-
-# Remove the file
-git rm FoodSense_Azerbaycanca.pptx
-
-# Commit the deletion
-git commit -m "Remove FoodSense_Azerbaycanca.pptx"
-
-# Push to GitHub
-git push origin main
 
 ---
 
