@@ -4,7 +4,7 @@
 
 FoodSense is an IT Business Analysis project completed as part of the IT Business Analytics program at CODERS Azerbaijan.
 
-The project proposes an AI-powered restaurant recommendation system that delivers personalized menu suggestions based on weather conditions, dietary preferences, allergens, location, and user behavior. The primary objective was to analyze business requirements and design a scalable solution from a business analysis perspective.
+The project proposes an AI-powered restaurant recommendation system that delivers personalized menu suggestions based on weather conditions, dietary preferences, allergens, location, and user behavior.
 
 ---
 
@@ -14,18 +14,9 @@ As the Business Analyst, I was responsible for:
 
 - Analyzing business and stakeholder requirements
 - Defining functional and non-functional requirements
-- Modeling business processes using BPMN 2.0
-- Designing the proposed solution and recommendation logic
-- Preparing project documentation and presentation
-
----
-
-## Project Deliverables
-
-- 📄 Business Requirements Documentation
-- 📊 BPMN 2.0 Process Models
-- 🗂️ ER Diagram
-- 🎤 Project Presentation
+- Designing business processes
+- Developing the proposed solution and recommendation logic
+- Preparing the project presentation
 
 ---
 
@@ -33,10 +24,9 @@ As the Business Analyst, I was responsible for:
 
 - Business Requirements Analysis
 - Stakeholder Analysis
-- Process Modeling (BPMN 2.0)
+- Business Process Modeling (BPMN 2.0)
 - Requirements Engineering
 - Solution Design
-- Business Process Analysis
 
 ---
 
@@ -52,12 +42,15 @@ As the Business Analyst, I was responsible for:
 ## Repository Contents
 
 - 📄 [Project Presentation](FoodSense_Presentation.pdf)
-- 📄 [Project Documentation](FoodSense_Documentation.pdf)
-- 📊 [BPMN Diagram](FoodSense_BPMN.drawio.png)
-- 🗂️ [ER Diagram](FoodSense_ERD.drawio.png)
+
+---
+
+## Future Improvements
+
+This repository will be updated with additional project documentation and supporting artifacts as the project continues to evolve.
 
 ---
 
 ## Learning Outcomes
 
-Through this project, I strengthened my practical knowledge of business analysis by translating business requirements into structured documentation, process models, and solution designs while applying industry-standard analysis techniques.
+Through this project, I gained practical experience in business analysis by translating business requirements into a structured solution while improving my process modeling, documentation, and solution design skills.
